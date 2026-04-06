@@ -1,0 +1,7 @@
+Am folosit Google AI Studio cu modelul Veo 3.1.
+
+Tema: Am facut filmulet despre importanta plantarii copacilor pentru a reduce efectul de sera si incalzirea excesiva in orasele mari si poluate.
+
+Prompt: "Realizeaza-mi un timelapse cinematic al unei strazi gri de beton dintr-un oras aglomerat care se transforma intr-o padure urbana. Pune-mi niste stejari si artari care cresc rapid din trotuar, lasand o umbra racoroasa pe asfalt. Fa-mi ca lumina puternica a soarelui sa devina mai blanda pe masura ce trece prin frunzele copacilor. Adauga-mi niste oameni care se plimba confortabil la umbra copacilor. Randeaza-mi la rezolutie inalta de 4k, intr-un mod fotorealist."
+
+Prompt negativ: "arhitectura deformata si incetosata, aspect de desen animat, calitate scazuta, miscari sacadate, copaci uscati, gunoi pe strazi, camera tremurata, culori intunecate si sumbre."
